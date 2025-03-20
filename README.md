@@ -19,7 +19,10 @@
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">
   <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
-</p>p
+</p>
+
+
+
 |  Cursos   | Certificados |
 |-----|-----|
 | Git-GITHUB|  [Certicados](http://)  |
