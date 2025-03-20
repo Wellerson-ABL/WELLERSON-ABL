@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## Sejam Bem-Vindo ao Meu Nundo!
+## Sejam Bem-Vindo ao Meu Mundo!
 
 ![Minha Área de Trabalho](https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png)<br>
 
