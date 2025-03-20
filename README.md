@@ -6,20 +6,17 @@
 ![Minha Área de Trabalho](https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png)<br>
 
 
-:alien: Olá Pessoal, eu sou Wellerson Bilé Loss
+:alien: Olá Pessoal, eu sou Wellerson Almeida Bilé Loss 😄
 
-- Sou Tecnico de Informática com Ênfase Web Designer pela CONTEC. 
-- Cursando Ciencia de Computação.
-- Aprendendo pela plataforma DIO.
+- Curso Tecnico de Informática pela CONTEC. 
+- Cursando Ciencia da Computação.
+- Aprendendo Front-End com a [DIO](https://www.dio.me/).
 
-Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). Foi nesse momento que percebi que a programação 'Front/Back End' tinha tudo haver comigo.
+💬 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
-### MINHAS TECNOLOGIAS
+### Minhas tecnologias até o momento:
 
-
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">
-<img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px">
-<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
 
 |  Cursos   | Certificados |
 |-----|-----|
