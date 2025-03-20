@@ -15,9 +15,11 @@
 💬 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
 ### Minhas tecnologias até o momento:
-
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px"><img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
-
+<p aligh="center">
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
+</p>p
 |  Cursos   | Certificados |
 |-----|-----|
 | Git-GITHUB|  [Certicados](http://)  |
