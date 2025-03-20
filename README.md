@@ -25,7 +25,7 @@ Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'test
 | Git-GITHUB|  [Certicados](http://)  |
 
 
-![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=radical)
+![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)
 
 <!--
 **Wellerson-ABL/WELLERSON-ABL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
