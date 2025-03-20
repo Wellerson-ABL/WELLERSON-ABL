@@ -9,8 +9,8 @@
 :alien: Olá Pessoal, eu sou Wellerson Bilé Loss
 
 - Sou Tecnico de Informática com Ênfase Web Designer pela CONTEC. 
-- Estou Cursando Ciencia de Computação.
-- E atualmente Estou Aprendendo pela plataforma DIO.
+- Cursando Ciencia de Computação.
+- Aprendendo pela plataforma DIO.
 
 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). Foi nesse momento que percebi que a programação 'Front/Back End' tinha tudo haver comigo.
 
@@ -18,7 +18,8 @@ Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'test
 
 
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">
+<img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px">
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
 
 |  Cursos   | Certificados |
 |-----|-----|
