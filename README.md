@@ -12,13 +12,14 @@
 - Cursando Ciencia da Computação.
 - Aprendendo Front-End com a [DIO](https://www.dio.me/).
 
-💬 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). Foi nesse momento que percebi que a programação tinha tudo haver comigo.
+💬 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). 
+Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
 ### Minhas tecnologias até o momento:
 <p aligh="center">
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="100px">
-  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="100px">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="100px">
+<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="70px">
+  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="70px">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70px">
 </p>
 
 
@@ -29,6 +30,8 @@
 
 
 ![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellerson-abl&hide_progress=true)
 
 <!--
 **Wellerson-ABL/WELLERSON-ABL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
