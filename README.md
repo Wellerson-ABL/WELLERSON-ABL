@@ -16,11 +16,16 @@
 Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
 ### Minhas tecnologias até o momento:
+
 <p aligh="center">
-<img src="https://www.svgrepo.com/show/452228/html-5.svg" width="70px">
   <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="70px">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70px">
+  <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="70px"> 
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="70px">
+  <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=000000" width="65px">
+
 </p>
+
 
 
 
