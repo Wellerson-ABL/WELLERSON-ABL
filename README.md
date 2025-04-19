@@ -1,12 +1,12 @@
-## Hi  👋
+## Olá  👋 :)
 
 
-## Sejam Bem-Vindo ao Meu Mundo!
+## Bem-Vindo ao Meu Mundo!
 
-![Minha Área de Trabalho](https://apexensino.com.br/wp-content/uploads/2020/06/aprender-a-programar.png)<br>
+![Minha Área de Trabalho](https://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1-1200x686.webp)<br>
 
 
-:alien: Olá Pessoal, eu sou Wellerson Almeida Bilé Loss 😄
+:alien: Olá Pessoal, eu sou Wellerson Bile Loss 😄
 
 - Curso Tecnico de Informática pela CONTEC. 
 - Cursando Ciencia da Computação.
@@ -14,6 +14,9 @@
 
 💬 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). 
 Foi nesse momento que percebi que a programação tinha tudo haver comigo.
+
+
+
 
 ### Minhas tecnologias até o momento:
 
@@ -29,9 +32,14 @@ Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
 
 
-|  Cursos   | Certificados |
+|  Cursos   |  Certificados        |
 |-----|-----|
-| Git-GITHUB|  [Certicados](http://)  |
+| Git   |  [Certicados](http://)  |
+| HTML  |  [Certicados](http://)  |
+| CSS   |  [Certicados](http://)  |
+| JS    |  [Certicados](http://)  |
+
+
 
 
 ![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)
