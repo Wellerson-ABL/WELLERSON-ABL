@@ -21,12 +21,12 @@ Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 ### <u>Minhas tecnologias até o momento</u>:
 ### Hard Skills:
 ## [CONSTRUINDO!!]
-|<img alt="GIT" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="70px"> | <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70px">|<img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="70px">| <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="70px">|  <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=45982&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=9O8p1uBBiAVZ&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=5wVLcimjkkOo&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=12472&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=BnOyV43gP7fZ&format=png&color=000000" width="65px">|
-|--|--|--|--|--|--|--|--|--|--|
-|Git|GitHub|Html|Css|Javascript|Web Designer|UX Design|UI Design|WordPress|Elementor|
-| [Certicados](http://) |--|--|--|--|--|--|--|--|--|
-|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|
-|Básico|Básico|Intermediário|Básico|--|--|--|--|--|--|
+|<img alt="GIT" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="70px"> | <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70px">|<img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="70px">| <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="70px">|  <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=45982&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=9O8p1uBBiAVZ&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=5wVLcimjkkOo&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=12472&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=BnOyV43gP7fZ&format=png&color=000000" width="65px">|<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="65px">|
+|--|--|--|--|--|--|--|--|--|--|--|
+|Git|GitHub|Html|Css|Javascript|Web Designer|UX Design|UI Design|WordPress|Elementor|Figma|
+| [Certicados](http://) |--|--|--|--|--|--|--|--|--|--|
+|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|<b>Conhecimento:</b>|
+|Básico|Básico|Intermediário|Básico|--|--|--|--|--|--|--|
 
 <br><br>
 ### <u>Minhas Habilidades</u>   
