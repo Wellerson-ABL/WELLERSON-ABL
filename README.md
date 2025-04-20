@@ -3,7 +3,7 @@
 
 ## Bem-Vindo ao Meu Mundo!
 
-![Minha Área de Trabalho](h ttps://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1-1200x686.webp)<br>
+![Minha Área de Trabalho](https://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1-1200x686.webp)<br>
 
 
 :alien: Olá Pessoal, eu sou Wellerson Bile Loss 😄
@@ -30,16 +30,9 @@ Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
 
 
-
-![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)            ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellerson-abl&hide_progress=true) 
-
-<p aligh="center">
-
-![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellerson-abl&hide_progress=true)
-
-</p>
+|![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellerson-abl&hide_progress=true) |
+|--|--|
+|||
 
 ## Stack utilizada
 
