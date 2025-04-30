@@ -30,7 +30,7 @@ Foi nesse momento que percebi que a programação tinha tudo haver comigo.
 
 
 ## 🛠 Habilidades
-**Front-end:** HTML, CSS, Javascript, TypeScript Figma, UX/UI Designer, Angular, React 
+**Front-end:** HTML, CSS, Javascript, Figma, UX/UI Designer, Angular, 
 
 <br><br>
 ### <u>Minhas tecnologias até o momento</u>:
