@@ -1,58 +1,50 @@
-# Olá  👋 :)
 
-
-## Bem-Vindo ao Meu Mundo!
 <p align="center">
-<img src="https://microlinsf1.com.br/wp-content/uploads/2024/02/post-logicadeprogramacao-1-1200x686.webp" width="800px" height="350px" border="4px">
+<img src="https://img.myloview.com.br/adesivos/front-end-development-minimal-infographic-web-banner-vector-front-end-it-sphere-html-and-css-code-internet-web-site-design-and-painting-illustration-700-222283240.jpg" width="400px" height="140px" border="4px">
 </p>
- <br>
  
-## :alien: Olá Pessoal, eu sou Wellerson Bile Loss 😄
+### Olá Pessoal, 👋
+🚀 <b>Sou Wellerson</b>, Técnico de Informática e estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, estou me aperfeiçoando com a
+[DIO](https://www.dio.me/), construindo meu caminho para me tornar um desenvolvedor front-end apaixonado por tecnologia e inovação.
 
-- Curso Tecnico de Informática pela CONTEC. 
-- Cursando Ciencia da Computação.
-- Aprendendo Front-End com a [DIO](https://www.dio.me/).
- <br> <br>
-💬 Meu primeiro contato com a Fron-End foi 2022. Quando fiz meu primeiro site 'teste' (Wordpress/Elementor). 
-Foi nesse momento que percebi que a programação tinha tudo haver comigo.
- <br>
+💡 Meu primeiro contato com o Front-End foi em 2022, quando criei meu primeiro site de teste utilizando WordPress e Elementor. Foi nesse momento que percebi que a programação era mais do que apenas uma ferramenta—era algo que fazia sentido para mim.
 
+🎯 Estou sempre aprendendo e buscando evoluir minhas habilidades.
+</p><br>
 
 
-<p align="center">
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/portfolio-449?style=for-the-badge&logo=ko-fi&logoColor=yellow)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Facebook](https://img.shields.io/badge/facebook-1d1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-</p>
-<br>
 
 
-## 🛠 Habilidades
-**Front-end:** HTML, CSS, Javascript, Figma, UX/UI Designer, Angular, 
 
-<br><br>
-### <u>Minhas tecnologias até o momento</u>:
+#### 🔗 Links
 
-|<img alt="GIT" src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" width="70px"> | <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70px">|<img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="70px">| <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="70px">|  <img src="https://img.icons8.com/?size=100&id=39853&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=45982&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=9O8p1uBBiAVZ&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=5wVLcimjkkOo&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=12472&format=png&color=000000" width="65px">|  <img src="https://img.icons8.com/?size=100&id=BnOyV43gP7fZ&format=png&color=000000" width="65px">|<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="65px">|
-|--|--|--|--|--|--|--|--|--|--|--|
-|Git|GitHub|Html|Css|Javascript|Web Designer|UX Design|UI Design|WordPress|Elementor|Figma|
+![portifolio](https://img.shields.io/badge/Portifólio-35495E.svg?Color=white)
+![portifolio](https://img.shields.io/badge/Facebook-0A66C2.svg?=white)
+![portifolio](https://img.shields.io/badge/Instagram-1d1F2.svg?Color=white)
 
 
-<br><br>
+#### 🛠 Habilidades
+
+![HTML](https://img.shields.io/badge/html-red?style=for-the-badge&Color=white)
+![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=twitter&logoColor=white)
+![UX|UI](https://img.shields.io/badge/UX|UI-gray?style=for-the-badge&logo=linkedin&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=twitter&logoColor=white)
+![GITH](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=twitter&logoColor=white)
+
+#### Frameworks, Platforms and Libraries
+![ANGULAR](https://img.shields.io/badge/angular-red?style=for-the-badge&Color=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&Color=white)
 
 
-## Well's Stats
+#### Well's Stats
 ![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)
 
-## Most Used Languages
+#### Most Used Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wellerson-abl&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
 ## Stack utilizada
-**Front-end:** Html, CSS, Javascript,
-**Back-end:** 
-Python,
+Html, CSS, Javascript, Python,
 
 
 
