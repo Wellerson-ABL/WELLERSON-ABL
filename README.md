@@ -32,18 +32,18 @@
 ![GIT](https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=twitter&logoColor=white)
 ![GITH](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=twitter&logoColor=white)
 
-#### Frameworks, Platforms and Libraries
+#### 📓 Frameworks, Platforms and Libraries
 ![ANGULAR](https://img.shields.io/badge/angular-red?style=for-the-badge&Color=white)
 ![bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&Color=white)
 
 
-#### Well's Stats
+#### 👨‍💻 Well's Stats
 ![Wellerson Bile Loss - GitHub stats](https://github-readme-stats.vercel.app/api?username=wellerson-abl&show_icons=true&theme=dracula)
 
-#### Most Used Languages
+#### ⌨ Most Used Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wellerson-abl&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 
-## Stack utilizada
+## ⚒ Stack utilizada
 Html, CSS, Javascript, Python,
 
 
