@@ -7,9 +7,7 @@
 🚀 <b>Sou Wellerson</b>, Técnico de Informática e estudante de <b>Análise e Desenvolvimento de Sistemas</b>. Atualmente, estou me aperfeiçoando com a
 [DIO](https://www.dio.me/), construindo meu caminho para me tornar um desenvolvedor front-end apaixonado por tecnologia e inovação.
 
-💡 Meu primeiro contato com o Front-End foi em 2022, quando criei meu primeiro site de teste utilizando WordPress e Elementor. Foi nesse momento que percebi que a programação era mais do que apenas uma ferramenta—era algo que fazia sentido para mim.
 
-🎯 Estou sempre aprendendo e buscando evoluir minhas habilidades.
 </p><br>
 
 
